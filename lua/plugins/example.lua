@@ -148,6 +148,8 @@ return {
         "markdown",
         "markdown_inline",
         "python",
+        "cpp",
+        "c",
         "query",
         "regex",
         "tsx",
